@@ -1,10 +1,14 @@
-## Olá
+## Olá!
 
 - Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente trabalhando na área de Sustentação e estudando Go Lang e React.
 
   ##
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coouts_icons=true&theme=dark)
+  
+<div>
+  <a href="https://github.com/coouts">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coouts&show_icons=true&theme=radical"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coouts&hide_progress=true&theme=radical"/>
+</div>
 
 
 <div style="display: inline_block"><br>
