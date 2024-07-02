@@ -2,6 +2,10 @@
 
 - Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente trabalhando na área de Sustentação e estudando Go Lang e React.
 
+  ##
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coouts_icons=true&theme=dark)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Let-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
