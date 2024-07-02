@@ -1,6 +1,6 @@
 ## Olá
 
-- Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente trabalhando na área de Sustentação e estudando Go Lang e React
+- Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente trabalhando na área de Sustentação e estudando Go Lang e React.
 
 
 <div style="display: inline_block"><br>
