@@ -1,13 +1,9 @@
 ## Olá!
 
-- Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente trabalhando na área de Sustentação e estudando Go Lang e React.
+- Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente Desenvolvedora Junior C#.
+- Sempre em busca de conhecimento, estudando Go Lang, .Net e React.
 
   ##
-  
-<div>
-  <a href="https://github.com/coouts">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coouts&show_icons=true&theme=radical"/>
-</div>
 
 
 <div style="display: inline_block"><br>
