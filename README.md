@@ -1,7 +1,7 @@
 ## Olá!
 
 - Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente Desenvolvedora Junior C#.
-- Sempre em busca de conhecimento, estudando Go Lang, .Net e React.
+- Sempre em busca de conhecimento, estudando React, Go Lang e C#.
 
   ##
 
